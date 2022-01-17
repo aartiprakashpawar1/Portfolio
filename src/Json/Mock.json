@@ -1,0 +1,211 @@
+{
+    "personalInfo": {
+        "name": "Aarti Pawar",
+        "jobTitle": "Software Engineer",
+        "mobileNumber":"+918898225370",
+        "linkedIn":"https://www.linkedin.com/in/aarti-pawar-628001154",
+        "faceBook":"http://github.com/aartiprakashpawar1",
+        "profileImg": "/assets/img/profile.jpeg",
+        "languages": ["Marathi", "Hindi", "English"],
+        "resume":"/assets/Docs/Resume_AartiPawar.pdf"
+    },
+    "emailJs":{
+        "serviceID":"service_8s34i7l",
+        "templateID":"template_rkh0xfi",
+        "userID":"user_wN3pQJf2ztj0621kjJkMN"
+    },
+    "generalInfo": [
+        {
+            "infoTitle": "Residence",
+            "infoValue": "India"
+        },
+        {
+            "infoTitle": "City",
+            "infoValue": "Mumbai"
+        },
+        {
+            "infoTitle": "Age",
+            "infoValue": "24"
+        }
+    ],
+
+    "education": [
+        {
+            "educationType": "Secondary Education",
+            "educationitems": [
+                {
+                    "title": "School",
+                    "value": "Gyanodaya Vidya Mandir"
+                },
+                {
+                    "title": "Board",
+                    "value": "Maharashtra State Board"
+                },
+                {
+                    "title": "Year of Passing",
+                    "value": "2012"
+                },
+                {
+                    "title": "Percentage",
+                    "value": "60%"
+                }
+            ]
+        },
+        {
+            "educationType": "Diploma",
+            "educationitems": [
+                {
+                    "title": "College",
+                    "value": "Muchhala Polytechnic"
+                },
+                {
+                    "title": "Board",
+                    "value": "Maharashtra State Board"
+                },
+                {
+                    "title": "Year of Passing",
+                    "value": "2015"
+                },
+                {
+                    "title": "Percentage",
+                    "value": "65.19%"
+                }
+            ]
+        },
+        {
+            "educationType": "Bachelor's Degree",
+            "educationitems": [
+                {
+                    "title": "College",
+                    "value": "New Horizon Institute of Technology & Management"
+                },
+                {
+                    "title": "University",
+                    "value": "Mumbai University"
+                },
+                {
+                    "title": "Year of Passing",
+                    "value": "2018"
+                },
+                {
+                    "title": "C.G.P.A",
+                    "value": "7.76"
+                }
+            ]
+        }
+    ],
+    "experience":[
+        {
+            "company_name":"Vernost Marketing Technology Pvt. Ltd.",
+            "position":"Trainee Software Engineer",
+            "tenure":{
+                "startDate":"Oct 2020",
+                "endDate":"Present"
+            }
+        },
+        {
+            "company_name":"Chiefex Technologies Pvt Ltd.",
+            "position":"Software Engineer",
+            "tenure":{
+                "startDate":"Nov 2019",
+                "endDate":"March 2020"
+            }
+        },
+        {
+            "company_name":"Atos | Syntel Pvt ltd",
+            "position":"Associate Consultant",
+            "tenure":{
+                "startDate":"Nov 2018",
+                "endDate":"May 2019"
+            }
+        }
+
+    ],
+    "quote":[ "Only half of programming is coding. The other 90% is debugging.",
+                 " There is nothing quite so permanent as a quick fix.",
+                 "Experience is the name everyone gives to their mistakes.",
+                  "Computers do not solve problems, they execute solutions.",
+                  "Java is to JavaScript what Car is to Carpet.",
+                   "One man’s constant is another man’s variable.",
+                   "Code never lies, comments sometimes do."
+  ],
+
+
+    "skills": [
+        {
+            "skillName": "HTML 5",
+            "iconColor": "#e34f26",
+            "iconClass": "fab fa-html5",
+            "skillRating": [1, 1, 1, 0.5, 0]
+        },
+        {
+            "skillName": "CSS 3",
+            "iconColor": "#264de4",
+            "iconClass": "fab fa-css3-alt",
+            "skillRating": [1, 1, 1, 0.5, 0]
+        },
+        {
+            "skillName": "Javascript",
+            "iconColor": "#f0db4f",
+            "iconClass": "fab fa-js-square",
+            "skillRating": [1, 1, 1, 0, 0]
+        },
+        {
+            "skillName": "MySQL",
+            "iconColor": "#00758F",
+            "iconClass": "fas fa-database",
+            "skillRating": [1, 1, 1, 0, 0]
+        },
+        {
+            "skillName": "React",
+            "iconColor": "#61DBFB",
+            "iconClass": "fab fa-react",
+            "skillRating": [1, 1, 1, 1, 0]
+        },
+        {
+            "skillName": "NodeJS",
+            "iconColor": "#68a063",
+            "iconClass": "fab fa-node",
+            "skillRating": [1, 1, 1, 0, 0]
+        },
+        {
+            "skillName": "Ionic",
+            "iconColor":  "#498AFF",
+            "iconClass": "devicon-ionic-original colored",
+            "skillRating": [1, 1, 1, 0, 0]
+        },
+        {
+            "skillName": "Git",
+            "iconColor": "#f34f29",
+            "iconClass": "fab fa-git-alt",
+            "skillRating": [1, 1, 1, 0, 0]
+        }
+    ],
+
+    "projects":[
+        {
+            "name":"InterBook",
+            "description":  "Interbook is an internal part of intermiles project, It can be used for end to end hotel booking,the user can search hotel by name or by city. also user can cancel hotel booking anytime before checkout. ",
+            "link":"https://www.intermiles.com/hotels"
+        },
+       
+        {
+            "name":"Phone Store",
+            "description": "This was my practice project in which i had implemented simple e-commerce site for mobile in which i had used mock json for data. In which user can select any mobile from listed products and add it to the cart. " ,      
+            "link":"https://aarti-react-mobile-store-project.netlify.app/"
+        },
+        {
+            "name":"Shop ",
+            "description":"Shop is an internal part of intermiles project, It can be used for shopping from various platform through intermiles.it gives rewards to the end user in form of intermiles which can be later used for other transactions ",
+            "link":"https://shop.intermiles.com/"
+        },
+
+        {
+            "name":"Task Manager",
+            "description": " This was my practice project in which the user can login or register and then user can  add, update or delete task.user can also create sub tasks for particular task the user can maintain a tasks list on daily basis and plan the day accordingly.",
+            "link":"https://github.com/aartiprakashpawar1/TaskManager"
+        }
+
+
+    ]
+}
