@@ -25,7 +25,7 @@
         },
         {
             "infoTitle": "Age",
-            "infoValue": "24"
+            "infoValue": "27"
         }
     ],
 
@@ -44,11 +44,8 @@
                 {
                     "title": "Year of Passing",
                     "value": "2012"
-                },
-                {
-                    "title": "Percentage",
-                    "value": "60%"
                 }
+               
             ]
         },
         {
@@ -65,11 +62,8 @@
                 {
                     "title": "Year of Passing",
                     "value": "2015"
-                },
-                {
-                    "title": "Percentage",
-                    "value": "65.19%"
                 }
+               
             ]
         },
         {
@@ -86,11 +80,8 @@
                 {
                     "title": "Year of Passing",
                     "value": "2018"
-                },
-                {
-                    "title": "C.G.P.A",
-                    "value": "7.76"
                 }
+               
             ]
         }
     ],
@@ -148,7 +139,7 @@
             "skillName": "Javascript",
             "iconColor": "#f0db4f",
             "iconClass": "fab fa-js-square",
-            "skillRating": [1, 1, 1, 0, 0]
+            "skillRating": [1, 1, 1, 1, 0]
         },
         {
             "skillName": "MySQL",
@@ -169,16 +160,16 @@
             "skillRating": [1, 1, 1, 0, 0]
         },
         {
-            "skillName": "Ionic",
+            "skillName": "NextJs",
             "iconColor":  "#498AFF",
-            "iconClass": "devicon-ionic-original colored",
-            "skillRating": [1, 1, 1, 0, 0]
+            "iconClass": "devicon-nextjs-plain colored",
+            "skillRating": [1, 1, 1, 1, 0]
         },
         {
             "skillName": "Git",
             "iconColor": "#f34f29",
             "iconClass": "fab fa-git-alt",
-            "skillRating": [1, 1, 1, 0, 0]
+            "skillRating": [1, 1, 1, 1, 0]
         }
     ],
 

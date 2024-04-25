@@ -168,7 +168,7 @@ function SideBar() {
 
         <i className="fa fa-linkedin-square icon" style={{color:"#0e76a8"}}  onClick={()=>{window.open(Mock.personalInfo.linkedIn)}}/>
         <i className="fab fa-github icon" style={{color:"#292727"}} onClick={()=>{window.open(Mock.personalInfo.faceBook)}}/>
-        <i className="fab fa-whatsapp-square icon" style={{color:"#25D366"}} onClick={()=>{let whatsappLink="https://wa.me/"+Mock.personalInfo.mobileNumber;window.open(whatsappLink)}}/>
+        {/* <i className="fab fa-whatsapp-square icon" style={{color:"#25D366"}} onClick={()=>{let whatsappLink="https://wa.me/"+Mock.personalInfo.mobileNumber;window.open(whatsappLink)}}/> */}
 
         <Toggler />
       </div>
